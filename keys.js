@@ -1,0 +1,4 @@
+export const STRIPE_PUBLISHABLE_KEY =
+  'pk_live_51JB9lMCpZcQ6zgvn79TnGMsehKc5EDfabJEm9yjs404UbtosyIVrj9sbvSrpc3Wp7e7uAQEpMaAlq7vtxvya6AGd00tQb8yf1M';
+export const Secret_key =
+  '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';
